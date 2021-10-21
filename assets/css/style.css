@@ -1,0 +1,39 @@
+/*estilo da pagina index.html*/
+.center {
+    text-align: center;
+}
+
+ul li{
+    display: inline;
+    padding: 9%;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+ul li a:hover{
+    color: cadetblue;
+}
+
+/*estilo da pagina poema.html e cronica.html*/
+
+.container_texto{ 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.container_imagem{ 
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+
+
+
+
+
